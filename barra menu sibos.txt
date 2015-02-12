@@ -288,35 +288,32 @@
         
         <div id="menu">
                 <ul id="dropline">
-                        <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/sibos2014" target="_parent" onclick="mark"></a></li>
-                        <li class="top"><a id="sibos2014" class="principal" href="https://sites.google.com/a/bbva.com/sibos2014/sibos2014" target="_parent">Sibos 2014</a>
+                        <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/" target="_parent" onclick="mark"></a></li>
+                        <li class="top"><a id="europa" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/europa" target="_parent">Europa</a>
                           <ul style="left:-99999px; display: none;" class="sub">
                                         
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/sibos2014/stand-bbva" target="_parent">Stand BBVA</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/sibos2014/attendance" target="_parent">Key Contacts / Attendance</a></li>
-                                           <li><a href="https://drive.google.com/a/bbva.com/file/d/0B4tQb4HqBuEedEVVOEhPQW9pVmM/edit?usp=sharing" target="_parent">Overwiev Plan</a></li>
-                                         <li><a href="http://www.sibos.com/exhibition/about-exhibition/exhibitor-list" target="_parent">Exhibitor list</a></li>
-                                         <li><a href="https://sites.google.com/a/bbva.com/sibos2014/sibos2014/participants" target="_parent">Participants</a></li>
-                                         <li><a href="https://sites.google.com/a/bbva.com/sibos2014/sibos2014/press" target="_parent">Press</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/sibos2014/transport" target="_parent">Transportation</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/espana" target="_parent">España</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/alemania" target="_parent">Alemania</a></li>
+                                           <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/francia" target="_parent">Francia</a></li>
+                                         <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/italia" target="_parent">Italia</a></li>
+                                         <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/reino-unido" target="_parent">Reino Unido</a></li>
+                                         <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/portugal" target="_parent">Portugal</a></li>
                                          </ul>
                         </li>
                         
-                         <li class="top"><a id="accomodation" class="principal" href="https://sites.google.com/a/bbva.com/sibos2014/accomodation" target="_parent">Accommodation</a>
+                         <li class="top"><a id="prueba" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/informacion-de-interes" target="_parent">prueba</a>
                         
                         </li>
                      
-                        <li class="top"><a id="forums" class="principal" href="https://sites.google.com/a/bbva.com/sibos2014/forums" target="_parent">Forums</a>
+                        <li class="top"><a id="americadelsur" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/america-del-sur" target="_parent">América del Sur</a>
                         <ul style="left:-99999px; display: none;" class="sub">
                                         
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/compliance-forum" target="_parent">Compliance</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/corporate-forum" target="_parent">Corporate</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/innotribe" target="_parent">Innotribe</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/investment-manager-forum" target="_parent">Investment Manager</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/market-infrastructures-forum" target="_parent">Market Infrastructures</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/sibos-university" target="_parent">Sibos University</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/standards-forum" target="_parent">Standards</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/technology-forum" target="_parent">Technology</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/Argentina" target="_parent">Argentina</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/chile" target="_parent">Chile</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/colombia" target="_parent">Colombia</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/peru" target="_parent">Perú</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/venezuela" target="_parent">Venezuela</a></li>
+
                                   
                                         
                                         
