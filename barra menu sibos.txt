@@ -289,48 +289,31 @@
         <div id="menu">
                 <ul id="dropline">
                         <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/" target="_parent" onclick="mark"></a></li>
-                        <li class="top"><a id="europa" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/europa" target="_parent">Europa</a>
-                          <ul style="left:-99999px; display: none;" class="sub">
-                                        
-                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/espana" target="_parent">España</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/alemania" target="_parent">Alemania</a></li>
-                                           <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/francia" target="_parent">Francia</a></li>
-                                         <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/italia" target="_parent">Italia</a></li>
-                                         <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/reino-unido" target="_parent">Reino Unido</a></li>
-                                         <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/portugal" target="_parent">Portugal</a></li>
-                                         </ul>
+                        <li class="top"><a id="global" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/global" target="_parent">Global</a>
+                          
                         </li>
                         
-                         <li class="top"><a id="prueba" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/informacion-de-interes" target="_parent">prueba</a>
+                         <li class="top"><a id="españa" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/espana" target="_parent">España</a>
                         
                         </li>
                      
-                        <li class="top"><a id="americadelsur" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/america-del-sur" target="_parent">América del Sur</a>
-                        <ul style="left:-99999px; display: none;" class="sub">
-                                        
-                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/Argentina" target="_parent">Argentina</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/chile" target="_parent">Chile</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/colombia" target="_parent">Colombia</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/peru" target="_parent">Perú</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/venezuela" target="_parent">Venezuela</a></li>
-
-                                  
-                                        
-                                        
-                                        
-                        </ul>
-                        </li>
-                        <li class="top"><a id="agenda" class="principal" href="https://sites.google.com/a/bbva.com/sibos2014/meeting-agenda" target="_parent">Meeting agenda</a>
-                        
-                        </li>
-                         <li class="top"><a id="other" class="principal" href="https://sites.google.com/a/bbva.com/sibos2014/other-information" target="_parent">Other Information</a>
-                        <ul style="left:-99999px; display: none;" class="sub">
-                                  <li><a href="https://sites.google.com/a/bbva.com/sibos2014/other-information" target="_parent" target="_parent">Free Wi-Fi</a></li>
-                                        
-                                        <li><a href="http://www.sibos.com/sites/default/files/Sibos_Boston_2014_Practical_Pocket_Guide.pdf" target="_parent">Practical Pocket Guide</a></li>
-                                        </ul>
+                        <li class="top"><a id="Argentina" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/Argentina" target="_parent">Argentina</a>
                        
+                        </li>
+                        <li class="top"><a id="chile" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/chile" target="_parent">Chile</a>
                         
+                        </li>
+                         <li class="top"><a id="colombia" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/colombia" target="_parent">Colombia</a>
+                      
+                        </li>
+                        <li class="top"><a id="peru" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/peru" target="_parent">Perú</a>
+                      
+                        </li>
+                        <li class="top"><a id="venezuela" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/venezuela" target="_parent">Venezuela</a>
+                      
+                        </li>
+                        <li class="top"><a id="informaciondeinteres" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/informacion-de-interes" target="_parent">Información de Interés</a>
+                      
                         </li>
                         
                 </ul>
