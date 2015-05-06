@@ -315,10 +315,12 @@
                         <li class="top"><a id="mexico" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/home/mexico" target="_parent">México</a>
                       
                         </li>
-                        <li class="top"><a id="informaciondeinteres" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/informacion-de-interes" target="_parent">Información de Interés</a>
+                        <li class="top"><a id="Documentos" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/documentos" target="_parent">Documentos</a>
                       
                         </li>
-                        
+                          <li class="top"><a id="FAQ" class="principal" href="https://sites.google.com/a/bbva.com/iniciativa-de-principalidad/faq" target="_parent">FAQ</a>
+                      
+                        </li>
                 </ul>
         </div>
 
